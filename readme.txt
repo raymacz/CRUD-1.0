@@ -1,6 +1,7 @@
 Name of application: CRUD - Loc63
-Author: Raymacz
+Author: Raymacz (MA)
 Version: 1.0
+
 How to use:
 
  1.) install xampp,wamp or any apache server w/ mysql on your PC
