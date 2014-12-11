@@ -1,5 +1,5 @@
-Name of application: Raymacz
-Author: Raymond Ben T. Maquiso
+Name of application: RBTM
+Author: Raymacz
 Version: 1.0
 How to use:
 
